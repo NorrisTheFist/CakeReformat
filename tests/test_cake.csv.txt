@@ -1,0 +1,8 @@
+Date,Operation,Amount,Coin/Asset,FIAT value,FIAT currency,Transaction ID,Withdrawal address,Reference,Related reference ID
+"2021-05-04T21:04:08+02:00","Staking reward","5.615613868","DFI","17.37609763","EUR","","","ref",""
+"2021-05-04T20:34:44+02:00","Withdrawal","-20","DFI","-64.1563468413","EUR","address","address","ref",""
+"2021-05-04T19:46:44+02:00","Withdrawal fee","-0.2","DFI","-0.641563468413","EUR","","","ref","rel_ref_id"
+"2021-05-04T19:14:55+01:00","Bonus/Airdrop","10.04","DFI","88.1069113408436495088","EUR","","","ref","rel_ref_id"
+"2021-05-04T18:39:54+02:00","Swapped in","9198.82537312","DFI","22000","EUR","","","ref","rel_ref_id"
+"2021-05-04T18:39:54+02:00","Swapped out","-0.5","BTC","-22000","EUR","","","ref","rel_ref_id"
+"2021-05-04T18:04:33+02:00","Deposit","0.5","BTC","22000","EUR","address","","rel_ref_id
