@@ -1,6 +1,8 @@
 # CakeToAccointing
 Rudimentary code to transform cake transaction report to accointing format. In the current version, only the staking rewards are considered.
 
+IMPORTANT: The code has not been tested extensively and may contain errors. The correctness of the output cannot be guaranteed.
+
 If not already done, install the python virtualenv tool with
 `pip install virtualenv`
 
